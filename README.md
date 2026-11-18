@@ -22,7 +22,7 @@ Dodatkowo gra oferuje:
 * **Backend** - Yevhenii Kiliarov, Kacper Kusz
 * **Baza** - Kacper Kusz
 * **Devops** - Yevhenii Kiliarov
-* **PM** - Yevhenii Kiliarov
+* **TM** - Yevhenii Kiliarov
 
 ## 4. Narzędzia do współpracy
 * **Komunikacja** - Messenger
