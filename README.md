@@ -1,0 +1,2 @@
+# WordlePl
+Wordle po polsku
